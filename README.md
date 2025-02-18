@@ -140,10 +140,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Zoom** for the API integration.
 - **PyPDF2** for PDF text extraction.
 
-## Contact
-
-For any questions or issues, please open an issue on the GitHub repository or contact the maintainer directly.
-
----
-
-**Note**: This is a simplified version of the README. You may want to add more details, such as screenshots, additional setup instructions, or troubleshooting tips, depending on your audience.
